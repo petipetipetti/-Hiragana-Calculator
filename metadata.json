@@ -1,0 +1,5 @@
+{
+  "name": "ひらがな計算機 (Hiragana Calculator)",
+  "description": "A unique calculator that uses the Japanese characters 'あかさたなはまやらわ' instead of numbers 0-9 for calculations. It supports basic arithmetic operations.",
+  "requestFramePermissions": []
+}
